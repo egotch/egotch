@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eric Gotkowski</h1>
-<h3 align="center">I'm an experienced engineer with a passion for efficiencies and applying methodical problem solving approaches to the advancement and improvement of the greater organization.</h3>
+<h3 align="center">I'm an experienced engineer with a passion for efficiencies and applying methodical problem-solving approaches to the advancement and improvement of the greater organization I'm a part of!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=egotch&label=Profile%20views&color=0e75b6&style=flat" alt="egotch" /> </p>
 
