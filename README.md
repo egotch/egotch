@@ -4,7 +4,7 @@
 <h3 alighn="left">How to reach me:</h3>
 <p align="Left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark&perline=5" alt="Mail" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark&perline=5" alt="Mail" /> **egotkowski@gmail.com**
   </a>
 </p>
 <p alight="left">
